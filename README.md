@@ -1,4 +1,5 @@
 dotfiles
 ========
 CIS 191 Homework
-Added from the command line
+These are my dotfiles and I am there leader!
+
